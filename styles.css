@@ -5,11 +5,12 @@ body {
     background-color: #eaeaea; /* Changed background color */
 }
 
-header {
+footer {
     background: linear-gradient(to right, #ff5733, #ffbd69); /* Changed gradient colors */
     color: #333; /* Changed text color */
     padding: 20px;
     text-align: center;
+    
 }
 
 h1, h2, h3, h4 {
@@ -20,8 +21,8 @@ h1, h2, h3, h4 {
 button {
     display: inline-block; /* Changed display to inline-block */
     margin: 10px auto; /* Reduced margin */
-    padding: 12px 24px; /* Adjusted padding */
-    font-size: 16px; /* Decreased font size */
+    padding: 24px 48px; /* Adjusted padding */
+    font-size: 30px; /* Decreased font size */
     border: 2px solid #ff5733; /* Added border */
     background-color: transparent; /* Made background transparent */
     color: #ff5733; /* Changed text color */
